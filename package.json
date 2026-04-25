@@ -44,7 +44,7 @@
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
     "nodemailer": "^6.9.10",
-    "prettier": "^3.2.5",
+    "prettier": "^3.8.3",
     "speedgoose": "^2.0.12",
     "uuid": "^9.0.1",
     "ws": "^8.19.0",
